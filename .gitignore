@@ -1,0 +1,13 @@
+# Folder Virtual Environment
+venv/
+
+# Folder Model
+indobert/
+xlnet/
+
+# Folder hasil download
+downloads/
+
+# Folder cache Python
+__pycache__/
+*.pyc
