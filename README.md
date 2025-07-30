@@ -5,8 +5,8 @@ Aplikasi web sederhana yang dibangun menggunakan Flask untuk menganalisis sentim
 ## Fitur Utama
 - **Analisis Teks Tunggal**: Menganalisis sentimen dari satu kalimat yang dimasukkan pengguna.
 - **Analisis File CSV**: Menganalisis banyak kalimat sekaligus dengan mengunggah file `.csv`.
-- **Hasil Komprehensif**: Menampilkan ringkasan jumlah sentimen, visualisasi pie chart, dan pratinjau data.
-- **Skor Keyakinan**: Menampilkan seberapa yakin model dengan hasil prediksinya.
+- **Hasil Analisis Komprehensif (CSV)**: Menampilkan ringkasan jumlah sentimen dan pratinjau data.
+- **Hasil Teks Tunggal**: Menampilkan hasil prediksi dari teks tunggal yaitu positif, negatif, atau netral.
 - **Unduh Hasil**: Pengguna dapat mengunduh hasil analisis lengkap dalam format `.csv`.
 
 ## Cara Menjalankan Proyek Secara Lokal
