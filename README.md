@@ -38,8 +38,9 @@ Aplikasi web sederhana yang dibangun menggunakan Flask untuk menganalisis sentim
     /Website-Analisis-Sentimen
         /indobert
         /templates
+        .gitignore
         app.py
-        ...
+        requirements.txt
     ```
 
 5.  **Jalankan Aplikasi**
