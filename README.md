@@ -50,5 +50,5 @@ Aplikasi web sederhana yang dibangun menggunakan Flask untuk menganalisis sentim
     Buka browser dan akses alamat `http://127.0.0.1:5000`.
 
 
-* ### `Model yang digunakan pada website`
-    * `model_indobert`: https://drive.google.com/drive/folders/1SixFVfE1fsBTQ13PNahvdefldMAaodNq?usp=sharing.
+* ### `Model yang digunakan pada website (Indobert)`
+    * https://drive.google.com/drive/folders/1SixFVfE1fsBTQ13PNahvdefldMAaodNq?usp=sharing.
